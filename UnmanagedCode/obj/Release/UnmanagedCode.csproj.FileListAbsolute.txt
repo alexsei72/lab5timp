@@ -1,0 +1,21 @@
+C:\MVS\UnmanagedCode\UnmanagedCode\bin\Release\Project1.dll
+C:\MVS\UnmanagedCode\UnmanagedCode\bin\Release\UnmanagedCode.exe.config
+C:\MVS\UnmanagedCode\UnmanagedCode\bin\Release\UnmanagedCode.exe
+C:\MVS\UnmanagedCode\UnmanagedCode\bin\Release\UnmanagedCode.pdb
+C:\MVS\UnmanagedCode\UnmanagedCode\obj\Release\UnmanagedCode.Form1.resources
+C:\MVS\UnmanagedCode\UnmanagedCode\obj\Release\UnmanagedCode.Properties.Resources.resources
+C:\MVS\UnmanagedCode\UnmanagedCode\obj\Release\UnmanagedCode.csproj.GenerateResource.cache
+C:\MVS\UnmanagedCode\UnmanagedCode\obj\Release\UnmanagedCode.csproj.CoreCompileInputs.cache
+C:\MVS\UnmanagedCode\UnmanagedCode\obj\Release\UnmanagedCode.exe
+C:\MVS\UnmanagedCode\UnmanagedCode\obj\Release\UnmanagedCode.pdb
+C:\Users\agole\Desktop\тимп лабы 1-7\5 - UnmanagedCode\UnmanagedCode\bin\Release\Project1.dll
+C:\Users\agole\Desktop\тимп лабы 1-7\5 - UnmanagedCode\UnmanagedCode\bin\Release\UnmanagedCode.exe.config
+C:\Users\agole\Desktop\тимп лабы 1-7\5 - UnmanagedCode\UnmanagedCode\bin\Release\UnmanagedCode.exe
+C:\Users\agole\Desktop\тимп лабы 1-7\5 - UnmanagedCode\UnmanagedCode\bin\Release\UnmanagedCode.pdb
+C:\Users\agole\Desktop\тимп лабы 1-7\5 - UnmanagedCode\UnmanagedCode\obj\Release\UnmanagedCode.csprojAssemblyReference.cache
+C:\Users\agole\Desktop\тимп лабы 1-7\5 - UnmanagedCode\UnmanagedCode\obj\Release\UnmanagedCode.Form1.resources
+C:\Users\agole\Desktop\тимп лабы 1-7\5 - UnmanagedCode\UnmanagedCode\obj\Release\UnmanagedCode.Properties.Resources.resources
+C:\Users\agole\Desktop\тимп лабы 1-7\5 - UnmanagedCode\UnmanagedCode\obj\Release\UnmanagedCode.csproj.GenerateResource.cache
+C:\Users\agole\Desktop\тимп лабы 1-7\5 - UnmanagedCode\UnmanagedCode\obj\Release\UnmanagedCode.csproj.CoreCompileInputs.cache
+C:\Users\agole\Desktop\тимп лабы 1-7\5 - UnmanagedCode\UnmanagedCode\obj\Release\UnmanagedCode.exe
+C:\Users\agole\Desktop\тимп лабы 1-7\5 - UnmanagedCode\UnmanagedCode\obj\Release\UnmanagedCode.pdb

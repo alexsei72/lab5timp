@@ -1,0 +1,11 @@
+C:\MVS\UnmanagedCode\UnmanagedCode\obj\Debug\UnmanagedCode.Form1.resources
+C:\MVS\UnmanagedCode\UnmanagedCode\obj\Debug\UnmanagedCode.csproj.GenerateResource.cache
+C:\MVS\UnmanagedCode\UnmanagedCode\obj\Debug\UnmanagedCode.csproj.CoreCompileInputs.cache
+C:\MVS\UnmanagedCode\UnmanagedCode\obj\Debug\UnmanagedCode.Properties.Resources.resources
+C:\MVS\UnmanagedCode\UnmanagedCode\bin\Debug\UnmanagedCode.exe.config
+C:\MVS\UnmanagedCode\UnmanagedCode\bin\Debug\UnmanagedCode.exe
+C:\MVS\UnmanagedCode\UnmanagedCode\bin\Debug\UnmanagedCode.pdb
+C:\MVS\UnmanagedCode\UnmanagedCode\obj\Debug\UnmanagedCode.exe
+C:\MVS\UnmanagedCode\UnmanagedCode\obj\Debug\UnmanagedCode.pdb
+C:\MVS\UnmanagedCode\UnmanagedCode\bin\Debug\Project1.dll
+C:\MVS\UnmanagedCode\UnmanagedCode\obj\Debug\UnmanagedCode.csprojAssemblyReference.cache
